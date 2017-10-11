@@ -3,27 +3,29 @@
  */
 public class main {
     public static void main(String[] args){
-        int j=0;
-        for(int i=1990;i<2008;i++){
-            if(i%4==0 && i%100!=0){
-                System.out.print(i+"年是闰年");
-                System.out.print("  ");
-                j++;
+        //int i;
+        int num=3;
+        for(int i=1;i<=4;i++) {
+           //System.out.print("    ");
+            for(int k=num;k>0;k--){
+                System.out.print(" ");
             }
-            else if(i%400==0){
-                System.out.print(i+"年是闰年");
-                System.out.print("  ");
-                j++;
+            for (int j = 0; j < i + i - 1; j++) {
+                System.out.print("*");
             }
-            //else{
-               // System.out.print(i+"年不是闰年");
-           // }
-
-            if(j==2){
-                System.out.println();
-                j=0;
-            }
+            System.out.println();
+            num--;
         }
-
+          num=1;
+        for(int i=3;i>0;i--){
+            for(int k=num;k>0;k--){
+                System.out.print(" ");
+            }
+            for (int j = 0; j < i + i - 1; j++) {
+                System.out.print("*");
+            }
+            System.out.println();
+            num++;
+        }
     }
 }
