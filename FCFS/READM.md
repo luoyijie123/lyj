@@ -1,9 +1,9 @@
-##模拟实现FCFS（先来先服务）算法
-  FCFS算法按照任务到达的顺序进行服务，先来先服务
-  每个Task对象可以描述为至少包含下列属性：
-  taskID //任务ID
-  arrivalTime //到达时间
-  serviceTime //服务时间
+模拟实现FCFS（先来先服务）算法
+FCFS算法按照任务到达的顺序进行服务，先来先服务
+每个Task对象可以描述为至少包含下列属性：
+taskID //任务ID
+arrivalTime //到达时间
+serviceTime //服务时间
 startingTime //开始时间
 finishingTime //完成时间=开始时间+服务时间
 turnAroundTime //周转时间=完成时间-达到时间
