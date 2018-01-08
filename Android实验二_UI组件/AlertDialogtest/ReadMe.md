@@ -1,5 +1,5 @@
-# 创建自定义布局的AlertDialog
-		实验内容:
-		![Image text](https://raw.githubusercontent.com/luoyijie123/lyj/master/Android实验二_UI组件/AlertDialogtest/image/require.PNG)
-		实验截图:
-		![Image text](https://raw.githubusercontent.com/luoyijie123/lyj/master/Android实验二_UI组件/AlertDialogtest/image/run.PNG)
+# 鍒涘缓鑷畾涔夊竷灞�鐨凙lertDialog
+		瀹為獙鍐呭:
+## ![Image text](https://raw.githubusercontent.com/luoyijie123/lyj/master/Android瀹為獙浜宊UI缁勪欢/AlertDialogtest/image/require.PNG)
+		瀹為獙鎴浘:
+## ![Image text](https://raw.githubusercontent.com/luoyijie123/lyj/master/Android瀹為獙浜宊UI缁勪欢/AlertDialogtest/image/run.PNG)
