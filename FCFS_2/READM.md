@@ -13,4 +13,4 @@
     先要求实现如下要求的FCFS
     当只有一个处理队列时的情况
     当有两个处理队列时的情况
-    ![Image text](https://raw.githubusercontent.com/luoyijie123/lyj/master/FCFS/run.PNG)
+   ![Image text](https://raw.githubusercontent.com/luoyijie123/lyj/master/FCFS_2/run.PNG)
