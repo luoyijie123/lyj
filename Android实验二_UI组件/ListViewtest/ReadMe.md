@@ -1,5 +1,5 @@
-#		Android ListViewµÄÓÃ·¨
-		ÊµÑéÒªÇó:
-		![Image text](https://raw.githubusercontent.com/luoyijie123/lyj/master/AndroidÊµÑé¶ş_UI×é¼ş/ListViewtest/image/require.PNG)
-		ÊµÑé½ØÍ¼:
-		![Image text](https://raw.githubusercontent.com/luoyijie123/lyj/master/AndroidÊµÑé¶ş_UI×é¼ş/ListViewtest/image/run.PNG)
+#		Android ListViewçš„ç”¨æ³•
+		å®éªŒè¦æ±‚:
+## ![Image text](https://raw.githubusercontent.com/luoyijie123/lyj/master/Androidå®éªŒäºŒ_UIç»„ä»¶/ListViewtest/image/require.PNG)
+		å®éªŒæˆªå›¾:
+## ![Image text](https://raw.githubusercontent.com/luoyijie123/lyj/master/Androidå®éªŒäºŒ_UIç»„ä»¶/ListViewtest/image/run.PNG)
