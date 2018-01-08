@@ -5,4 +5,4 @@
 		（1）若年号能被4整除，而不能被100整除，则是闰年；
 		（2）若年号能被400整除也是闰年。
 		运行截图:
-		![Image text](https://raw.githubusercontent.com/luoyijie123/lyj/master/实验二 熟悉JAVA的控制结构/javapractice/runpicture.PNG)
+		![Image text](https://raw.githubusercontent.com/luoyijie123/lyj/master/实验二_熟悉JAVA的控制结构/javapractice/runpicture.PNG)
