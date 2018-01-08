@@ -1,5 +1,5 @@
-#  Android²¼¾ÖÊµÑé
-##  ÀûÓÃ±í¸ñ²¼¾ÖÊµÏÖÈçÏÂ½çÃæ£º
-##  ![Image text](https://raw.githubusercontent.com/luoyijie123/lyj/master/AndroidÊµÑéÒ»_²¼¾Ö/HelloTableLayout/image/require.PNG)
-##  ÊµÑé½ØÍ¼:
-##  ![Image text](https://raw.githubusercontent.com/luoyijie123/lyj/master/AndroidÊµÑéÒ»_²¼¾Ö/HelloTableLayout/image/jietu.PNG)
+#  Androidå¸ƒå±€å®éªŒ
+##  åˆ©ç”¨è¡¨æ ¼å¸ƒå±€å®ç°å¦‚ä¸‹ç•Œé¢ï¼š
+##  ![Image text](https://raw.githubusercontent.com/luoyijie123/lyj/master/Androidå®éªŒä¸€_å¸ƒå±€/HelloTableLayout/image/require.png)
+##  å®éªŒæˆªå›¾:
+##  ![Image text](https://raw.githubusercontent.com/luoyijie123/lyj/master/Androidå®éªŒä¸€_å¸ƒå±€/HelloTableLayout/image/jietu.PNG)
