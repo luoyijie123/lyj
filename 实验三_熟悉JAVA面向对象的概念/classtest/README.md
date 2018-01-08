@@ -1,5 +1,5 @@
-#  JAVA·ÃÎÊÈ¨ÏŞĞŞÊÎ·ûµÄÕÆÎÕ
-		±àĞ´Ò»¸ö¾ßÓĞpublic¡¢private¡¢protected¡¢default·ÃÎÊÈ¨ÏŞµÄÊı¾İ³ÉÔ±ºÍ³ÉÔ±º¯ÊıµÄclass¡£
-		ÎªËü²úÉúÒ»¸ö¶ÔÏó²¢½øĞĞ¹Û£ºµ±Äã³¢ÊÔÈ¡ÓÃËùÓĞclass³ÉÔ±Ê±¡¢»á²úÉúÊ²Ã´ÀàĞÍµÄ±àÒëÏûÏ¢¡£
-		ÔËĞĞ½ØÍ¼:
-		![Image text](https://raw.githubusercontent.com/luoyijie123/lyj/master/ÊµÑéÈı_ÊìÏ¤JAVAÃæÏò¶ÔÏóµÄ¸ÅÄî/classtest/runpicture.PNG)
+#  JAVAè®¿é—®æƒé™ä¿®é¥°ç¬¦çš„æŒæ¡
+		ç¼–å†™ä¸€ä¸ªå…·æœ‰publicã€privateã€protectedã€defaultè®¿é—®æƒé™çš„æ•°æ®æˆå‘˜å’Œæˆå‘˜å‡½æ•°çš„classã€‚
+		ä¸ºå®ƒäº§ç”Ÿä¸€ä¸ªå¯¹è±¡å¹¶è¿›è¡Œè§‚ï¼šå½“ä½ å°è¯•å–ç”¨æ‰€æœ‰classæˆå‘˜æ—¶ã€ä¼šäº§ç”Ÿä»€ä¹ˆç±»å‹çš„ç¼–è¯‘æ¶ˆæ¯ã€‚
+		è¿è¡Œæˆªå›¾:
+## ![Image text](https://raw.githubusercontent.com/luoyijie123/lyj/master/å®éªŒä¸‰_ç†Ÿæ‚‰JAVAé¢å‘å¯¹è±¡çš„æ¦‚å¿µ/classtest/runpicture.PNG)
