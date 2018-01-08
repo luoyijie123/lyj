@@ -6,4 +6,4 @@
 中：[79,70]
 及格：[69,60]
 不及格：[0,59]
-![image](https://github.com/luoyijie123/lyj/edit/master/ToGradeScore/run picture.PNG);
+![image](https://github.com/luoyijie123/lyj/edit/master/ToGradeScore/runpicture.PNG);
