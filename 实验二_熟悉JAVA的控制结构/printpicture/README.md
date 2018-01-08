@@ -1,6 +1,6 @@
-#  ´òÓ¡Í¼°¸
-		ÀûÓÃforÑ­»·±àĞ´Ò»¸ö³ÌĞò£¬½«ÈçÏÂÍ¼°¸·Ö±ğ´òÓ¡Êä
-		³ö¡£
+#  æ‰“å°å›¾æ¡ˆ
+		åˆ©ç”¨forå¾ªç¯ç¼–å†™ä¸€ä¸ªç¨‹åºï¼Œå°†å¦‚ä¸‹å›¾æ¡ˆåˆ†åˆ«æ‰“å°è¾“
+		å‡ºã€‚
 			  *
 			 ***
 			*****
@@ -8,4 +8,5 @@
 			*****
 			 ***
 			  *
-		ÊµÑé½ØÍ¼:![Image text](https://raw.githubusercontent.com/luoyijie123/lyj/master/ÊµÑé¶ş_ÊìÏ¤JAVAµÄ¿ØÖÆ½á¹¹/printpicture/runpicture.PNG)
+		å®éªŒæˆªå›¾:
+## ![Image text](https://raw.githubusercontent.com/luoyijie123/lyj/master/å®éªŒäºŒ_ç†Ÿæ‚‰JAVAçš„æ§åˆ¶ç»“æ„/printpicture/runpicture.PNG)
