@@ -7,6 +7,6 @@
 ##  中：[79,70]
 ##  及格：[69,60]
 ##  不及格：[0,59]
-##  ![image](https://raw.githubusercontent.com/luoyijie123/lyj/edit/master/ToGradeScore/runpicture.PNG)
+##  ![image](https://raw.githubusercontent.com/luoyijie123/lyj/master/ToGradeScore/runpicture.PNG)
 
   
