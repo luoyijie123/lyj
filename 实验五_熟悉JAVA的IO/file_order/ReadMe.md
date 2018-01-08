@@ -1,7 +1,7 @@
-#  ÊµÑéËÄ ¶ÔÏóĞòÁĞ»¯
-##  ÀàStudent±íÊ¾Ñ§Éú£¬ÊôĞÔ°üÀ¨{studentID, name, sex} (Ñ§ºÅ£¬ĞÕÃû£¬ĞÔ±ğ)£¬Ê¹ÓÃĞòÁĞ»¯¼¼Êõ¶¨ÒåStudent¡£Ñ§ÉúĞÅÏ¢´ÓÎÄ¼şlist.txt¶ÁÈë£¬²¢°´ÕÕÑ§ºÅÉıĞòÅÅÁĞ¡£×¢Òâ£¬ÕâÀïĞÕÃûºÍĞÔ±ğ¿ÉÒÔ×éÖ¯³ÉStringÀàĞÍ£¬¶øÑ§ºÅ¿ÉÒÔÊÇStringÒ²¿ÉÒÔÊÇLong¡£
-##  Ê¹ÓÃObjectOutputStream½«ÒÑ¾­ÅÅĞòµÄÑ§ÉúĞÅÏ¢Ğ´³öµ½ÎÄ¼ş¡°student.bin¡±ÖĞ¡£
-##  Ê¹ÓÃObjectInputStream½«¡°student.bin¡±ÖĞµÄ¶ÔÏóĞÅÏ¢¶ÁÈë³ÌĞò£¬ÏÔÊ¾ÔÚ¿ØÖÆÌ¨ÖĞ¡£
-##  ÊµÑé½ØÍ¼:(ĞòÁĞ»¯ÎÄ¼ş²»Ò×ä¯ÀÀ£¬¹ÊÃ»ÓĞÕ³Ìù)
-##  ![Image text](https://raw.githubusercontent.com/luoyijie123/lyj/master/ÊµÑéÎå_ÊìÏ¤JAVAµÄIO/file_order/run.PNG)
+#  å®éªŒå›› å¯¹è±¡åºåˆ—åŒ–
+    ç±»Studentè¡¨ç¤ºå­¦ç”Ÿï¼Œå±æ€§åŒ…æ‹¬{studentID, name, sex} (å­¦å·ï¼Œå§“åï¼Œæ€§åˆ«)ï¼Œä½¿ç”¨åºåˆ—åŒ–æŠ€æœ¯å®šä¹‰Studentã€‚å­¦ç”Ÿä¿¡æ¯ä»æ–‡ä»¶list.txtè¯»å…¥ï¼Œå¹¶æŒ‰ç…§å­¦å·å‡åºæ’åˆ—ã€‚æ³¨æ„ï¼Œè¿™é‡Œå§“åå’Œæ€§åˆ«å¯ä»¥ç»„ç»‡æˆStringç±»å‹ï¼Œè€Œå­¦å·å¯ä»¥æ˜¯Stringä¹Ÿå¯ä»¥æ˜¯Longã€‚
+    ä½¿ç”¨ObjectOutputStreamå°†å·²ç»æ’åºçš„å­¦ç”Ÿä¿¡æ¯å†™å‡ºåˆ°æ–‡ä»¶â€œstudent.binâ€ä¸­ã€‚
+    ä½¿ç”¨ObjectInputStreamå°†â€œstudent.binâ€ä¸­çš„å¯¹è±¡ä¿¡æ¯è¯»å…¥ç¨‹åºï¼Œæ˜¾ç¤ºåœ¨æ§åˆ¶å°ä¸­ã€‚
+    å®éªŒæˆªå›¾:(åºåˆ—åŒ–æ–‡ä»¶ä¸æ˜“æµè§ˆï¼Œæ•…æ²¡æœ‰ç²˜è´´)
+##  ![Image text](https://raw.githubusercontent.com/luoyijie123/lyj/master/å®éªŒäº”_ç†Ÿæ‚‰JAVAçš„IO/file_order/run.PNG)
 
