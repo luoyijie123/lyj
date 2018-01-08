@@ -7,6 +7,6 @@
       中：[79,70]
       及格：[69,60]
       不及格：[0,59]
-## ![image](https://raw.githubusercontent.com/luoyijie123/lyj/master/实验二 熟悉JAVA的控制结构/ToGradeScore/runpicture.PNG)
+## ![image](https://raw.githubusercontent.com/luoyijie123/lyj/master/实验二熟悉JAVA的控制结构/ToGradeScore/runpicture.PNG)
 
   
