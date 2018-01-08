@@ -1,3 +1,4 @@
-#		ÊµÑéÒ»
-		¶ÔÊµÑéÈıÖĞµÄµ¥ÀıÄ£Ê½½øĞĞ¸ÄÔì£¬Ê¹ÆäÖ§³Ö¶àÏß³Ì£¬²¢ÇÒÊÇÏß³Ì°²È«µÄ¡£
-		ÊµÑé½ØÍ¼:![Image text](https://raw.githubusercontent.com/luoyijie123/lyj/master/ÊµÑéÁù_ÊìÏ¤JAVA¶àÏß³Ì/morethread_single/run.PNG)
+#		å®éªŒä¸€
+		å¯¹å®éªŒä¸‰ä¸­çš„å•ä¾‹æ¨¡å¼è¿›è¡Œæ”¹é€ ï¼Œä½¿å…¶æ”¯æŒå¤šçº¿ç¨‹ï¼Œå¹¶ä¸”æ˜¯çº¿ç¨‹å®‰å…¨çš„ã€‚
+		å®éªŒæˆªå›¾:
+## ![Image text](https://raw.githubusercontent.com/luoyijie123/lyj/master/å®éªŒå…­_ç†Ÿæ‚‰JAVAå¤šçº¿ç¨‹/morethread_single/run.PNG)
