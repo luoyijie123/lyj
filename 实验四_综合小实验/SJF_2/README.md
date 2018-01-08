@@ -1,7 +1,7 @@
-#		Ä£ÄâÊµÏÖSJF£¨¶Ì×÷ÒµÓÅÏÈ£©ÊµÏÖÁ½¸ö¶ÓÁÐ
-		SJFËã·¨Ê×ÏÈµ÷¶ÈÒÑµ½´ïµÄÈÎÎñÖÐ£¬·þÎñÊ±¼ä×î¶ÌµÄÈÎÎñ£¬ÕâÀï²»ÒªÇóÊµÏÖÈÎÎñµÄÇÀÕ¼¡£
-		°´ÕÕFCFSËã·¨µÄÒªÇóÊµÏÖSJFËã·¨£¬Í¬ÑùÒªÇó´¦ÀíÁ½ÖÖÇé¿ö£º
-		µ±Ö»ÓÐÒ»¸ö´¦Àí¶ÓÁÐÊ±µÄÇé¿ö
-		µ±ÓÐÁ½¸ö´¦Àí¶ÓÁÐÊ±µÄÇé¿ö
-		ÊµÑé½ØÍ¼:
-		![Image text](https://raw.githubusercontent.com/luoyijie123/lyj/master/ÊµÑéËÄ_×ÛºÏÐ¡ÊµÑé/SJF_2/run.PNG)
+#		æ¨¡æ‹Ÿå®žçŽ°SJFï¼ˆçŸ­ä½œä¸šä¼˜å…ˆï¼‰å®žçŽ°ä¸¤ä¸ªé˜Ÿåˆ—
+		SJFç®—æ³•é¦–å…ˆè°ƒåº¦å·²åˆ°è¾¾çš„ä»»åŠ¡ä¸­ï¼ŒæœåŠ¡æ—¶é—´æœ€çŸ­çš„ä»»åŠ¡ï¼Œè¿™é‡Œä¸è¦æ±‚å®žçŽ°ä»»åŠ¡çš„æŠ¢å ã€‚
+		æŒ‰ç…§FCFSç®—æ³•çš„è¦æ±‚å®žçŽ°SJFç®—æ³•ï¼ŒåŒæ ·è¦æ±‚å¤„ç†ä¸¤ç§æƒ…å†µï¼š
+		å½“åªæœ‰ä¸€ä¸ªå¤„ç†é˜Ÿåˆ—æ—¶çš„æƒ…å†µ
+		å½“æœ‰ä¸¤ä¸ªå¤„ç†é˜Ÿåˆ—æ—¶çš„æƒ…å†µ
+		å®žéªŒæˆªå›¾:
+## ![Image text](https://raw.githubusercontent.com/luoyijie123/lyj/master/å®žéªŒå››_ç»¼åˆå°å®žéªŒ/SJF_2/run.PNG)
