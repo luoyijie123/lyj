@@ -1,8 +1,8 @@
-#    ÅÐ¶ÏÈòÄê 
-		±àÐ´Java³ÌÐò£¬Êä³ö´Ó¹«Ôª1990Äêµ½2007ÄêËùÓÐ
-		ÈòÄêµÄÄêºÅ£¬Ã¿Êä³öÁ½¸öÄêºÅ»»Ò»ÐÐ¡£ÅÐ¶ÏÄêºÅÊÇ
-		·ñÎªÈòÄêµÄÌõ¼þÊÇ£º
-		£¨1£©ÈôÄêºÅÄÜ±»4Õû³ý£¬¶ø²»ÄÜ±»100Õû³ý£¬ÔòÊÇÈòÄê£»
-		£¨2£©ÈôÄêºÅÄÜ±»400Õû³ýÒ²ÊÇÈòÄê¡£
-		ÔËÐÐ½ØÍ¼:
-		![Image text](https://raw.githubusercontent.com/luoyijie123/lyj/master/ÊµÑé¶þ_ÊìÏ¤JAVAµÄ¿ØÖÆ½á¹¹/javapractice/runpicture.PNG)
+#    åˆ¤æ–­é—°å¹´ 
+		ç¼–å†™Javaç¨‹åºï¼Œè¾“å‡ºä»Žå…¬å…ƒ1990å¹´åˆ°2007å¹´æ‰€æœ‰
+		é—°å¹´çš„å¹´å·ï¼Œæ¯è¾“å‡ºä¸¤ä¸ªå¹´å·æ¢ä¸€è¡Œã€‚åˆ¤æ–­å¹´å·æ˜¯
+		å¦ä¸ºé—°å¹´çš„æ¡ä»¶æ˜¯ï¼š
+		ï¼ˆ1ï¼‰è‹¥å¹´å·èƒ½è¢«4æ•´é™¤ï¼Œè€Œä¸èƒ½è¢«100æ•´é™¤ï¼Œåˆ™æ˜¯é—°å¹´ï¼›
+		ï¼ˆ2ï¼‰è‹¥å¹´å·èƒ½è¢«400æ•´é™¤ä¹Ÿæ˜¯é—°å¹´ã€‚
+		è¿è¡Œæˆªå›¾:
+## ![Image text](https://raw.githubusercontent.com/luoyijie123/lyj/master/å®žéªŒäºŒ_ç†Ÿæ‚‰JAVAçš„æŽ§åˆ¶ç»“æž„/javapractice/runpicture.PNG)
